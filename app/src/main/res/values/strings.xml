@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">WebView</string>
+    <string name="button" translatable="false">Button</string>
+    <string name="change_device_locale">change device locale</string>
+</resources>
